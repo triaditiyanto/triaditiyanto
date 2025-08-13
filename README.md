@@ -39,24 +39,3 @@ Managing and optimizing logistics processes from inbound, storage, picking, pack
 
 🔹 **Manufacturing Management System (MMS)**  
 Overseeing production workflows, quality control, raw material and finished goods inventory management, and productivity reporting to enhance factory efficiency.
-
----
-
-## 📊 Workflow Diagram
-
-### 🔹 Warehouse Management System (WMS)
-```mermaid
-flowchart LR
-    A[Inbound Goods] --> B[Receiving & Inspection]
-    B --> C[Storage in Warehouse]
-    C --> D[Order Picking]
-    D --> E[Packing]
-    E --> F[Shipping / Delivery]
-    F --> G[Real-Time Reporting & Monitoring]
-flowchart LR
-    A[Production Planning] --> B[Raw Material Procurement]
-    B --> C[Production Process]
-    C --> D[Quality Control]
-    D --> E[Finished Goods Storage]
-    E --> F[Distribution]
-    F --> G[Productivity Analysis & Reporting]
