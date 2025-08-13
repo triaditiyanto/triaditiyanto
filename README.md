@@ -45,3 +45,7 @@ Overseeing production workflows, quality control, raw material and finished good
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triaditiyanto&layout=compact&theme=radical)
 
 ---
+
+<img src="https://raw.githubusercontent.com/triaditiyanto/triaditiyanto/output/snake.svg" alt="Snake animation" />
+
+###
