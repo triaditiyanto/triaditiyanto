@@ -2,7 +2,7 @@
 
 💻 **FullStack Developer | Warehouse Management System Specialist | Manufacturing Professional**
 
-I am a professional in **Web Development**, **Warehouse Management System (WMS)**, and **Manufacturing Management System (MMS)**.  
+I am a professional in **Web Application Development**, **Warehouse Management System (WMS)**, and **Manufacturing Management System (MMS)**.  
 I have extensive experience in developing **efficient, scalable, and user-friendly** systems to support business processes, logistics, and manufacturing operations.
 
 ---
