@@ -43,3 +43,19 @@ Overseeing production workflows, quality control, raw material and finished good
 ## 📊 GitHub Stats
 ![Tri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=triaditiyanto&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triaditiyanto&layout=compact&theme=radical)
+
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
