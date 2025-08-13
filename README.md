@@ -39,3 +39,9 @@ Managing and optimizing logistics processes from inbound, storage, picking, pack
 
 🔹 **Manufacturing Management System (MMS)**  
 Overseeing production workflows, quality control, raw material and finished goods inventory management, and productivity reporting to enhance factory efficiency.
+
+## 📊 GitHub Stats
+![Tri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=triaditiyanto&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triaditiyanto&layout=compact&theme=radical)
+
+---
