@@ -47,5 +47,3 @@ Overseeing production workflows, quality control, raw material and finished good
 ---
 
 <img src="https://raw.githubusercontent.com/triaditiyanto/triaditiyanto/output/snake.svg" alt="Snake animation" />
-
-###
