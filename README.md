@@ -31,14 +31,16 @@ I have extensive experience in developing **efficient, scalable, and user-friend
 ---
 
 ## 📌 Experience & Expertise
-I am currently working professionally in **Warehouse Management Systems (WMS)** and **Manufacturing Management Systems (MMS)**.  
-I am directly involved in the development, implementation, and optimization of systems that support the entire workflow — from raw material reception, storage, and production, to the distribution of finished goods.
+I am currently working professionally in Warehouse Management Systems (WMS) and Manufacturing Management Systems (MMS).
+I am directly involved in designing, coding, and deploying scalable applications that support the entire workflow — from raw material reception, storage, and production, to the distribution of finished goods.
 
 🔹 **Warehouse Management System (WMS)**  
-Managing and optimizing logistics processes from inbound, storage, picking, packing, to shipping with real-time integration and accurate reporting.
+Developing and optimizing logistics modules covering inbound, storage, picking, packing, and shipping processes.
+Tech Involvement: RESTful API integration, automated batch jobs, real-time inventory tracking with socket-based communication, and SQL optimization for high-volume data transactions.
 
 🔹 **Manufacturing Management System (MMS)**  
-Overseeing production workflows, quality control, raw material and finished goods inventory management, and productivity reporting to enhance factory efficiency.
+Building production workflow automation, integrating quality control checkpoints, and synchronizing raw material and finished goods inventory between multiple plants.
+Tech Involvement: Process scheduling algorithms, barcode & RFID scanning integration, production KPI dashboards, and automated reporting pipelines.
 
 ## 📊 GitHub Stats
 ![Tri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=triaditiyanto&show_icons=true&theme=radical)
